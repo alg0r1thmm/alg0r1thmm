@@ -14,4 +14,4 @@ Here's My [[Blog]](https://velog.io/@alg0r1thm)
 * Blockchain
 * Backend
 ---
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alg0r1thm)](https://solved.ac/alg0r1thm)<br> 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alg0r1thm)](https://solved.ac/alg0r1thm) ![Alg0r1thmm 's GitHub stats](https://github-readme-stats.vercel.app/api?username=alg0r1thmm&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura) <br>
