@@ -11,7 +11,7 @@ Here's My [[Blog]](https://velog.io/@alg0r1thm)
     * Software Science & Engineering **( 2017.03 ~ )**
     * Blockchain Intelligence Lab. **( 2022.11 ~ )**
 * Best of the Best 11th 
-   * Development of security products **( 2022.07 ~ 2023.02 )**
+   * Development of security products Track **( 2022.07 ~ 2023.02 )**
 
 ---
 
