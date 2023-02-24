@@ -13,6 +13,8 @@ Here's My [[Blog]](https://velog.io/@alg0r1thm)
 
 * Blockchain
 * Backend
+* Crypto
+* SmartContract
 
 ---
 
