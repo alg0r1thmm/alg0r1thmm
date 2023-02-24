@@ -15,5 +15,7 @@ Here's My [[Blog]](https://velog.io/@alg0r1thm)
 * Backend
 
 <div align="center">
-    ![Alg0r1thmm 's GitHub stats](https://github-readme-stats.vercel.app/api?username=alg0r1thmm&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
+  
+  ![Alg0r1thmm 's GitHub stats](https://github-readme-stats.vercel.app/api?username=alg0r1thmm&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura) 
+ 
 </div>
