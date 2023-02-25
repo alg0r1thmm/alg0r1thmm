@@ -26,7 +26,7 @@ Here's My [[Blog]](https://velog.io/@alg0r1thm)
 
 <div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alg0r1thmm=anuraghazra&theme=dark&show_icons=true)/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alg0r1thmm=anuraghazra&theme=dark&show_icons=transparent)/github-readme-stats)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alg0r1thm)](https://solved.ac/alg0r1thm/)
 
 </div>
