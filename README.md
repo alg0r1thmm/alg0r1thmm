@@ -10,7 +10,7 @@ Here's My [[Blog]](https://velog.io/@alg0r1thm)
 * Education : [[Kunsan National Univ.]](https://www.kunsan.ac.kr/)
     * Software Science & Engineering **( 2017.03 ~ )**
     * Blockchain Intelligence Lab. **( 2022.11 ~ )**
-* [[Best of the Best]](https://www.kitribob.kr/) 11th 
+* [Best of the Best](https://www.kitribob.kr/) 11th 
    * Development of security products Track **( 2022.07 ~ 2023.02 )**
 
 ---
