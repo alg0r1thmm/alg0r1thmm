@@ -18,9 +18,8 @@ Here's My [[Blog]](https://velog.io/@alg0r1thm)
 ### Intersets
 
 * Blockchain
-* Backend
+* DevOps
 * Network
-* Crypto
 * SmartContract
 
 ---
