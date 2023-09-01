@@ -13,7 +13,7 @@ Here's My [[Blog]](https://velog.io/@alg0r1thm)
 * [Best of the Best](https://www.kitribob.kr/) 11th 
    * Development of security products Track **( 2022.07 ~ 2023.02 )**
 * [FairsquareLab.](https://www.fairsquarelab.com/) Intern
-   * Blockchain Research **( 2023.06 ~ )**
+   * Blockchain Research **( 2023.06 ~ 2023.08 )**
 
 ---
 
