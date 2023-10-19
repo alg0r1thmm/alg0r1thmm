@@ -15,7 +15,7 @@ Here's My [[Blog]](https://velog.io/@alg0r1thm)
 * [FairsquareLab.](https://www.fairsquarelab.com/) Intern
    * Blockchain Research **( 2023.06 ~ 2023.08 )**
 * [Kloint](https://www.kloint.co.kr/)
-   * Blockchain Research **( 2023.10 ~ )**
+   * Web3 Investigator **( 2023.10 ~ )**
 
 ---
 
